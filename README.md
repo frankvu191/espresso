@@ -17,7 +17,7 @@ Implement implicit wait to wait for view instead of using SystemClock.sleep().
 
 
 ## CircleCI Dashboard  
-https://circleci.com/gh/frankvu191/workflows/espresso  
+https://circleci.com/gh/frankvu191/espresso  
 
 ## Sourcecode in Github  
 https://github.com/frankvu191/espresso  
